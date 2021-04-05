@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&display=swap");
+
+.paint-canvas {
+  display: block;
+  border: 2px solid black;
+  margin: 20px auto;
+  background-color: white;
+}
+
+body {
+  text-align: center;
+  background-color: rgb(61, 58, 58);
+  color: white;
+  font-family: "Comfortaa", cursive;
+}
